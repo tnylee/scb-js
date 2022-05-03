@@ -1,0 +1,16 @@
+{
+  "name": "scb-js",
+  "version": "1.0.0",
+  "description": "scb api calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ty",
+  "license": "ISC",
+  "dependencies": {
+    "base-64": "^1.0.0",
+    "fetch-ponyfill": "^7.1.0",
+    "node-fetch": "^2.6.7"
+  }
+}
