@@ -11,6 +11,6 @@
   "dependencies": {
     "base-64": "^1.0.0",
     "fetch-ponyfill": "^7.1.0",
-    "node-fetch": "^2.6.7"
+    "node-fetch": "^2.6.9"
   }
 }
